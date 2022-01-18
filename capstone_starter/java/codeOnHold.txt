@@ -1,0 +1,3 @@
+//Double preBig = Double.parseDouble(vendingInfoLines[2].trim());
+//big = big.setScale(2, RoundingMode.HALF_UP);
+
